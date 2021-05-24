@@ -13,6 +13,7 @@
 [<img align="left" alt="gaborstefler | LinkedIn" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/640px-Linkedin.svg.png" />](https://www.linkedin.com/in/gaborstefler/)
 [<img align="left" alt="gstefler | Instagram" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png" />](https://www.instagram.com/gstefler/)
 [<img align="left" alt="gstefler | Artstation" height="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/27_Artstation_logo_logos-512.png"/>](https://www.artstation.com/gstefler)
+[<img align="left" alt="Gábor | Spotify" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/768px-Spotify_logo_without_text.svg.png"/>](https://open.spotify.com/user/31e236ftay67ojfd4udmovj7wzde?si=4061cde5104f47cd)
 
 <br />
 
