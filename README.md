@@ -5,9 +5,9 @@
 - 🧠 Currently interested in 3️D modelling🟧, Flutter📱
 
 ### Connect with me:
-[<img align="left" alt="gaborstefler | LinkedIn" width="22px" src="https://www.vectorico.com/download/social_media/LinkedIn-Icon-squircle.svg" />](https://www.linkedin.com/in/gaborstefler/)
-[<img align="left" alt="gstefler | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png" />](https://www.instagram.com/gstefler/)
-[<img align="left" alt="gstefler | Artstation" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/27_Artstation_logo_logos-512.png"/>](https://www.artstation.com/gstefler)
+[<img align="left" alt="gaborstefler | LinkedIn" height="26px" src="https://www.vectorico.com/download/social_media/LinkedIn-Icon-squircle.svg" />](https://www.linkedin.com/in/gaborstefler/)
+[<img align="left" alt="gstefler | Instagram" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png" />](https://www.instagram.com/gstefler/)
+[<img align="left" alt="gstefler | Artstation" height="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/27_Artstation_logo_logos-512.png"/>](https://www.artstation.com/gstefler)
 
 <br />
 
