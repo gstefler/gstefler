@@ -12,9 +12,11 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="Visual Studio Code" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"/>](https://github.com/steflergabor)
-[<img align="left" alt="CLion" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/clion-1.svg"/>](https://github.com/steflergabor)
-[<img align="left" alt="Android Studio" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/512px-Android_Studio_Icon_3.6.svg.png"/>](https://github.com/steflergabor)
-[<img align="left" alt="C" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png"/>](https://github.com/steflergabor)
-[<img align="left" alt="C++" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png"/>](https://github.com/steflergabor)
-[<img align="left" alt="Flutter" width="26px" height="26px" src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true"/>](https://github.com/steflergabor)
+[<img align="left" alt="Visual Studio Code" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"/>](https://code.visualstudio.com/)
+[<img align="left" alt="CLion" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/clion-1.svg"/>](https://www.jetbrains.com/clion/)
+[<img align="left" alt="Android Studio" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/512px-Android_Studio_Icon_3.6.svg.png"/>](https://developer.android.com/studio)
+[<img align="left" alt="C" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png"/>](https://en.wikipedia.org/wiki/C_(programming_language))
+[<img align="left" alt="C++" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png"/>](https://en.wikipedia.org/wiki/C%2B%2B)
+[<img align="left" alt="Dart" height="26px" src="https://avatars1.githubusercontent.com/u/1609975?s=200&v=4"/>](https://dart.dev/)
+[<img align="left" alt="Flutter" height="26px" src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true"/>](https://flutter.dev/)
+[<img align="left" alt="Blender"  height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png"/>](https://www.blender.org/)
