@@ -3,8 +3,6 @@
 ## I'm a Student, 3D enthusiast and a gamer
 - 👨‍🎓 Computer Engineering student at [BME](http://www.vik.bme.hu/en)
 - 🧠 Currently interested in 3️D modelling🟧, Flutter📱
-- 🥅 Goals: become a 3D content creator, teach 👨‍🏫 programming, develop Flutter📱 apps
-
 
 ### Connect with me:
 [<img align="left" alt="steflergabor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/gaborstefler/)
