@@ -1,6 +1,6 @@
 <h2 align="left">
  <abc>
-  <br>Hi, my name is Gábor - aka Kilenc <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  <br>Hi, my name is Gábor <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
 <img src="https://media.giphy.com/media/lNCQJsudeT77G/giphy.gif" width="350">
  </abc>
 </h2>
