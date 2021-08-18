@@ -1,13 +1,12 @@
 <h2 align="left">
  <abc>
-  <br>Hi, my name is Gábor <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  <br>Szegatron! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
 <img src="https://media.giphy.com/media/lNCQJsudeT77G/giphy.gif" width="350">
  </abc>
 </h2>
 
-## I'm a Student, 3D enthusiast and a gamer
 - 👨‍🎓 Computer Engineering student at [BME](http://www.vik.bme.hu/en)
-- 🧠 Currently interested in 3️D modelling <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png" height="13">, Flutter <img src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true" height="13">
+- 🧠 Currently interested in 3️D modelling <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png" height="13"> and Flutter <img src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true" height="13">
 
 ### Connect with me:
 [<img align="left" alt="gaborstefler | LinkedIn" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/640px-Linkedin.svg.png" />](https://www.linkedin.com/in/gaborstefler/)
