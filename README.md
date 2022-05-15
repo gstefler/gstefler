@@ -4,9 +4,6 @@
  </abc>
 </h2>
 
-- 👨‍🎓 Computer Engineering student at [BME](http://www.vik.bme.hu/en)
-- 🧠 Currently interested in 3️D modelling <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png" height="13"> and Flutter <img src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true" height="13">
-
 ### Connect with me:
 [<img align="left" alt="gaborstefler | LinkedIn" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/640px-Linkedin.svg.png" />](https://www.linkedin.com/in/gaborstefler/)
 [<img align="left" alt="gstefler | Instagram" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png" />](https://www.instagram.com/gstefler/)
